@@ -7,7 +7,7 @@ Passionate about all things tech from coding to PC building to gaming.
 
 You can find my resume [Here](https://resume.creddle.io/resume/bptrsskb6tq)
   
-[![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/travis-liu/](https://www.linkedin.com/in/lschan12/)
+[![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lschan12/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lawrence.c@hotmail.co.uk)
 
 # Techn Stacks and Libraries
