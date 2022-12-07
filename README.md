@@ -3,6 +3,7 @@
 ### Hi there 👋
 
 My name is Lawrence Chan and I am a Full Stack Developer based in Vancouver, Canada 🇨🇦!
+
 Passionate about all things tech from coding to PC building to gaming.
 
 You can find my resume [Here](https://resume.creddle.io/resume/bptrsskb6tq)
